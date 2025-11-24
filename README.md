@@ -438,3 +438,4 @@ This exegesis is my way of saying:
 - I know what I'm doing in my own head.  
 - I know what I'm doing with dangerous-looking tools.  
 - And if you're building AI systems and want someone who thinks this carefully about guardrails, narrative, and real people... this is the kind of work I want to do with you.
+-BRENNEN MARTIN SPANGLER
