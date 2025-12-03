@@ -8,7 +8,7 @@ Longform exegesis of a one-listen simulation using Carpenter Brut's "Leather Ter
 
 ## 0. Preface: Why I'm Writing This
 
-On the evening of November 20, 2025, four days after being discharged from an involuntary psychiatric stay, I sat in my living room in Little Rock, Arkansas, put on headphones, and listened to Carpenter Brut's "Leather Terror" front to back, once.
+On the evening of November 20, 2025, one day after being discharged from an involuntary psychiatric stay, I sat in my living room in Little Rock, Arkansas, put on headphones, and listened to Carpenter Brut's "Leather Terror" front to back, once.
 
 On paper, that sounds like nothing.
 
